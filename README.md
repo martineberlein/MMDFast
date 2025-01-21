@@ -1,5 +1,5 @@
-# Efficient Debugging of Machine Learning Model Mispredictions
-This repository contains data sets, trained black boxes, evaluation code and results for our paper "EEfficient Debugging of Machine Learning Model Mispredictions".
+# Efficient Understanding of Machine Learning Model Mispredictions
+This repository contains data sets, trained black boxes, evaluation code and results for our paper "Efficient Understanding of Machine Learning Model Mispredictions".
 
 ## Contents of Folders and Python Scripts
 -dataset: contains data sets used  
